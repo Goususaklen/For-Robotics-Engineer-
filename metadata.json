@@ -1,0 +1,6 @@
+{
+  "name": "Singularity MCU Studio",
+  "description": "Interstellar-themed microcontroller IDE, AI firmware architect, and real-time hardware telemetry dashboard for Arduino UNO and ESP32 over USB, Wi-Fi, LAN, and Bluetooth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
